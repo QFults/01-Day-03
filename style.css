@@ -1,0 +1,45 @@
+/* h1 {
+  color: red;
+}
+
+#head1 {
+  color: blue;
+}
+
+h1.green {
+  color: green;
+} */
+
+/* h1, p {
+  color: purple;
+} */
+
+/* #head1, .green {
+  color: green;
+} */
+
+/* h1 {
+  font-size: 200px;
+  font-weight: 300;
+  display: inline;
+  background-color: blue;
+} */
+
+/* #spongebob {
+  width: 800px;
+  border: 5px solid black;
+  border-top: 10px solid blue;
+  padding: 15px;
+  padding-right: 20px;
+  margin: 50px;
+  margin-top: 50px;
+  height: 200px;
+} */
+
+/* button {
+  display: block;
+} */
+
+.right {
+  margin-left: 20px;
+}
